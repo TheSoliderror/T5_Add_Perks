@@ -12,7 +12,7 @@ After Running the Install.bat open Pluto T5 and launch a compatible map.
 KEEP ALL FILES INSIDE THE PROVIDED FOLDER! DO NOT RUN THE INSTALLER.BAT OUTSIDE THIS FOLDER, IT MOVES ALL FILES WHEREEVER IT IS INTO THE PLUTO SCRIPTS FOLDER!
 
 # Compatible Maps & Perk Locations
-* Kino Der Toten
+* Kino Der Toten /n
 PhD: Top Room Above Power
 Stamina-Up: Balcany Of Top Spawn Room Overlooking Theater On The Wall
 Self Revive: Dressing Room By Song Rock
